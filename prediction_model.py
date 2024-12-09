@@ -9,8 +9,8 @@ from tensorflow.keras.callbacks import Callback
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 # Load the data
-train_data = pd.read_csv('C:/Users/clone/Desktop/Final Results/Input Datas/Netflix_train.csv')
-test_data = pd.read_csv('C:/Users/clone/Desktop/Final Results/Input Datas/Netflix_test.csv')
+train_data = pd.read_csv('Netflix_train.csv')
+test_data = pd.read_csv('Netflix_test.csv')
 
 # Convert date to datetime
 train_data['date'] = pd.to_datetime(train_data['date'])
