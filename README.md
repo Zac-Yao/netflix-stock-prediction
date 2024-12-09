@@ -21,9 +21,3 @@ This project implements a stock price prediction model using LSTM neural network
     - `loss_rmse_training.png`: Training loss and RMSE during training.
     - `historical_predicted_future_prices.png`: Predicted stock prices for historical and future data.
     - `rmse_vs_date.png`: RMSE values over time.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/netflix-stock-prediction.git
-   cd netflix-stock-prediction
