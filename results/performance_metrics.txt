@@ -1,0 +1,5 @@
+MSE: 0.0004
+RMSE: 0.0191
+MAE: 0.0138
+R2 Score: 0.8255
+Average RMSE: 0.0138
